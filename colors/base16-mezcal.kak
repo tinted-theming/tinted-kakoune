@@ -1,38 +1,30 @@
-# base24-github-light
+# base16-mezcal 
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: Tinted Theming (https://github.com/tinted-theming)
+# Scheme: Teshre
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
-declare-option str base00 'rgb:ffffff'
-declare-option str base01 'rgb:f6f8fa'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:953800'
-declare-option str base09 'rgb:0550ae'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:0a3069'
-declare-option str base0C 'rgb:116329'
-declare-option str base0D 'rgb:8250df'
-declare-option str base0E 'rgb:cf222e'
-declare-option str base0F 'rgb:82071e'
-declare-option str base10 'rgb:1f2328'
-declare-option str base11 'rgb:000000'
-declare-option str base12 'rgb:ff8182'
-declare-option str base13 'rgb:d4a72c'
-declare-option str base14 'rgb:4ac26b'
-declare-option str base15 'rgb:49bcb7'
-declare-option str base16 'rgb:54aeff'
-declare-option str base17 'rgb:c297ff'
+declare-option str base00 'rgb:13110e'
+declare-option str base01 'rgb:221f14'
+declare-option str base02 'rgb:36301e'
+declare-option str base03 'rgb:6e6450'
+declare-option str base04 'rgb:a79e8c'
+declare-option str base05 'rgb:e0d8c8'
+declare-option str base06 'rgb:e9e1cf'
+declare-option str base07 'rgb:f2ead6'
+declare-option str base08 'rgb:da6e54'
+declare-option str base09 'rgb:d9a441'
+declare-option str base0A 'rgb:d9a441'
+declare-option str base0B 'rgb:a8b84a'
+declare-option str base0C 'rgb:6fc8ae'
+declare-option str base0D 'rgb:8aa6c0'
+declare-option str base0E 'rgb:c28aa8'
+declare-option str base0F 'rgb:4e462c'
 
 # code
 
@@ -87,8 +79,8 @@ set-face global MenuBackground "%opt{base0D},%opt{base07}"
 set-face global MenuInfo "%opt{base0D},%opt{base07}"
 set-face global Information "%opt{base01},%opt{base07}"
 set-face global Error "%opt{base01},%opt{base08}"
-set-face global DiagnosticError "%opt{base12}"
-set-face global DiagnosticWarning "%opt{base13}"
+set-face global DiagnosticError "%opt{base08}"
+set-face global DiagnosticWarning "%opt{base0A}"
 set-face global StatusLine "%opt{base04},%opt{base02}"
 set-face global StatusLineMode "%opt{base0A},%opt{base02}"
 set-face global StatusLineInfo "%opt{base06},%opt{base02}"
@@ -111,16 +103,16 @@ set-face global ts_constant_builtin_boolean     "%opt{base0C}"
 set-face global ts_constant_character           "%opt{base0A}"
 set-face global ts_constant_macro               "%opt{base0E}"
 set-face global ts_constructor                  "%opt{base0D}"
-set-face global ts_diff_plus                    "%opt{base14}"
-set-face global ts_diff_minus                   "%opt{base12}"
-set-face global ts_diff_delta                   "%opt{base16}"
-set-face global ts_diff_delta_moved             "%opt{base17}"
-set-face global ts_error                        "%opt{base12}+b"
+set-face global ts_diff_plus                    "%opt{base0B}"
+set-face global ts_diff_minus                   "%opt{base08}"
+set-face global ts_diff_delta                   "%opt{base0D}"
+set-face global ts_diff_delta_moved             "%opt{base0E}"
+set-face global ts_error                        "%opt{base08}+b"
 set-face global ts_function                     "%opt{base0D}"
-set-face global ts_function_builtin             "%opt{base16}+i"
+set-face global ts_function_builtin             "%opt{base0D}+i"
 set-face global ts_function_macro               "%opt{base0E}"
-set-face global ts_hint                         "%opt{base16}+b"
-set-face global ts_info                         "%opt{base14}+b"
+set-face global ts_hint                         "%opt{base0D}+b"
+set-face global ts_info                         "%opt{base0B}+b"
 set-face global ts_keyword                      "%opt{base0E}"
 set-face global ts_keyword_conditional          "%opt{base0E}+i"
 set-face global ts_keyword_control_conditional  "%opt{base0E}+i"
@@ -165,7 +157,7 @@ set-face global ts_string_special_path          "%opt{base0B}"
 set-face global ts_string_special_symbol        "%opt{base0E}"
 set-face global ts_string_symbol                "%opt{base08}"
 set-face global ts_tag                          "%opt{base0E}"
-set-face global ts_tag_error                    "%opt{base12}"
+set-face global ts_tag_error                    "%opt{base08}"
 set-face global ts_text                         "%opt{base05}"
 set-face global ts_text_title                   "%opt{base0E}"
 set-face global ts_type                         "%opt{base0A}"
@@ -174,4 +166,4 @@ set-face global ts_variable                     "%opt{base05}"
 set-face global ts_variable_builtin             "%opt{base08}"
 set-face global ts_variable_other_member        "%opt{base0C}"
 set-face global ts_variable_parameter           "%opt{base0F}+i"
-set-face global ts_warning                      "%opt{base13}+b"
+set-face global ts_warning                      "%opt{base09}+b"

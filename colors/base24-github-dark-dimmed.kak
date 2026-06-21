@@ -1,4 +1,4 @@
-# base24-github-light
+# base24-github-dark-dimmed
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
@@ -9,30 +9,30 @@
 
 # palette
 
-declare-option str base00 'rgb:ffffff'
-declare-option str base01 'rgb:f6f8fa'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:953800'
-declare-option str base09 'rgb:0550ae'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:0a3069'
-declare-option str base0C 'rgb:116329'
-declare-option str base0D 'rgb:8250df'
-declare-option str base0E 'rgb:cf222e'
-declare-option str base0F 'rgb:82071e'
-declare-option str base10 'rgb:1f2328'
+declare-option str base00 'rgb:22272e'
+declare-option str base01 'rgb:2d333b'
+declare-option str base02 'rgb:545d68'
+declare-option str base03 'rgb:636e7b'
+declare-option str base04 'rgb:768390'
+declare-option str base05 'rgb:adbac7'
+declare-option str base06 'rgb:cdd9e5'
+declare-option str base07 'rgb:ffffff'
+declare-option str base08 'rgb:f69d50'
+declare-option str base09 'rgb:6cb6ff'
+declare-option str base0A 'rgb:ae7c14'
+declare-option str base0B 'rgb:96d0ff'
+declare-option str base0C 'rgb:8ddb8c'
+declare-option str base0D 'rgb:dcbdfb'
+declare-option str base0E 'rgb:f47067'
+declare-option str base0F 'rgb:ff938a'
+declare-option str base10 'rgb:1c2128'
 declare-option str base11 'rgb:000000'
-declare-option str base12 'rgb:ff8182'
-declare-option str base13 'rgb:d4a72c'
-declare-option str base14 'rgb:4ac26b'
-declare-option str base15 'rgb:49bcb7'
-declare-option str base16 'rgb:54aeff'
-declare-option str base17 'rgb:c297ff'
+declare-option str base12 'rgb:f47067'
+declare-option str base13 'rgb:c69026'
+declare-option str base14 'rgb:57ab5a'
+declare-option str base15 'rgb:33b3ae'
+declare-option str base16 'rgb:539bf5'
+declare-option str base17 'rgb:b083f0'
 
 # code
 

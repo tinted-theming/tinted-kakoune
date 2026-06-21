@@ -1,4 +1,4 @@
-# base24-github-light
+# base24-github-dark-colorblind
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
@@ -9,30 +9,30 @@
 
 # palette
 
-declare-option str base00 'rgb:ffffff'
-declare-option str base01 'rgb:f6f8fa'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:953800'
-declare-option str base09 'rgb:0550ae'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:0a3069'
-declare-option str base0C 'rgb:116329'
-declare-option str base0D 'rgb:8250df'
-declare-option str base0E 'rgb:cf222e'
-declare-option str base0F 'rgb:82071e'
-declare-option str base10 'rgb:1f2328'
+declare-option str base00 'rgb:0d1117'
+declare-option str base01 'rgb:161b22'
+declare-option str base02 'rgb:484f58'
+declare-option str base03 'rgb:6e7681'
+declare-option str base04 'rgb:8b949e'
+declare-option str base05 'rgb:c9d1d9'
+declare-option str base06 'rgb:f0f6fc'
+declare-option str base07 'rgb:ffffff'
+declare-option str base08 'rgb:fdac54'
+declare-option str base09 'rgb:79c0ff'
+declare-option str base0A 'rgb:bb8009'
+declare-option str base0B 'rgb:a5d6ff'
+declare-option str base0C 'rgb:a5d6ff'
+declare-option str base0D 'rgb:d2a8ff'
+declare-option str base0E 'rgb:ec8e2c'
+declare-option str base0F 'rgb:fdac54'
+declare-option str base10 'rgb:010409'
 declare-option str base11 'rgb:000000'
-declare-option str base12 'rgb:ff8182'
-declare-option str base13 'rgb:d4a72c'
-declare-option str base14 'rgb:4ac26b'
-declare-option str base15 'rgb:49bcb7'
-declare-option str base16 'rgb:54aeff'
-declare-option str base17 'rgb:c297ff'
+declare-option str base12 'rgb:ec8e2c'
+declare-option str base13 'rgb:d29922'
+declare-option str base14 'rgb:58a6ff'
+declare-option str base15 'rgb:33b3ae'
+declare-option str base16 'rgb:58a6ff'
+declare-option str base17 'rgb:bc8cff'
 
 # code
 

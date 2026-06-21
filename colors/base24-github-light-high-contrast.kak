@@ -1,4 +1,4 @@
-# base24-github-light
+# base24-github-light-high-contrast
 #
 # Commentary:
 # Tinted Theming: (https://github.com/tinted-theming)
@@ -10,29 +10,29 @@
 # palette
 
 declare-option str base00 'rgb:ffffff'
-declare-option str base01 'rgb:f6f8fa'
-declare-option str base02 'rgb:afb8c1'
-declare-option str base03 'rgb:8c959f'
-declare-option str base04 'rgb:6e7781'
-declare-option str base05 'rgb:424a53'
-declare-option str base06 'rgb:32383f'
-declare-option str base07 'rgb:1f2328'
-declare-option str base08 'rgb:953800'
-declare-option str base09 'rgb:0550ae'
-declare-option str base0A 'rgb:bf8700'
-declare-option str base0B 'rgb:0a3069'
-declare-option str base0C 'rgb:116329'
-declare-option str base0D 'rgb:8250df'
-declare-option str base0E 'rgb:cf222e'
-declare-option str base0F 'rgb:82071e'
-declare-option str base10 'rgb:1f2328'
+declare-option str base01 'rgb:e7ecf0'
+declare-option str base02 'rgb:acb6c0'
+declare-option str base03 'rgb:88929d'
+declare-option str base04 'rgb:66707b'
+declare-option str base05 'rgb:343b43'
+declare-option str base06 'rgb:20252c'
+declare-option str base07 'rgb:0e1116'
+declare-option str base08 'rgb:702c00'
+declare-option str base09 'rgb:023b95'
+declare-option str base0A 'rgb:956400'
+declare-option str base0B 'rgb:032563'
+declare-option str base0C 'rgb:024c1a'
+declare-option str base0D 'rgb:622cbc'
+declare-option str base0E 'rgb:a0111f'
+declare-option str base0F 'rgb:6e011a'
+declare-option str base10 'rgb:0e1116'
 declare-option str base11 'rgb:000000'
-declare-option str base12 'rgb:ff8182'
-declare-option str base13 'rgb:d4a72c'
-declare-option str base14 'rgb:4ac26b'
+declare-option str base12 'rgb:ee5a5d'
+declare-option str base13 'rgb:b58407'
+declare-option str base14 'rgb:26a148'
 declare-option str base15 'rgb:49bcb7'
-declare-option str base16 'rgb:54aeff'
-declare-option str base17 'rgb:c297ff'
+declare-option str base16 'rgb:368cf9'
+declare-option str base17 'rgb:a371f7'
 
 # code
 
