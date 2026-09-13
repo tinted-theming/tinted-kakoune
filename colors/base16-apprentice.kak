@@ -4,27 +4,27 @@
 # Tinted Theming: (https://github.com/tinted-theming)
 #
 # Authors:
-# Scheme: romainl
+# Scheme: Romain Lafourcade (https://github.com/romainl)
 # Template: Jamy Golden (https://github.com/JamyGolden)
 
 # palette
 
 declare-option str base00 'rgb:262626'
-declare-option str base01 'rgb:af5f5f'
-declare-option str base02 'rgb:5f875f'
-declare-option str base03 'rgb:87875f'
-declare-option str base04 'rgb:5f87af'
-declare-option str base05 'rgb:5f5f87'
-declare-option str base06 'rgb:5f8787'
-declare-option str base07 'rgb:6c6c6c'
-declare-option str base08 'rgb:444444'
+declare-option str base01 'rgb:303030'
+declare-option str base02 'rgb:3a3a3a'
+declare-option str base03 'rgb:444444'
+declare-option str base04 'rgb:6c6c6c'
+declare-option str base05 'rgb:bcbcbc'
+declare-option str base06 'rgb:dfdfdf'
+declare-option str base07 'rgb:ffffff'
+declare-option str base08 'rgb:af5f5f'
 declare-option str base09 'rgb:ff8700'
-declare-option str base0A 'rgb:87af87'
-declare-option str base0B 'rgb:ffffaf'
-declare-option str base0C 'rgb:87afd7'
-declare-option str base0D 'rgb:8787af'
-declare-option str base0E 'rgb:5fafaf'
-declare-option str base0F 'rgb:bcbcbc'
+declare-option str base0A 'rgb:87875f'
+declare-option str base0B 'rgb:5f875f'
+declare-option str base0C 'rgb:5f8787'
+declare-option str base0D 'rgb:5f87af'
+declare-option str base0E 'rgb:5f5f87'
+declare-option str base0F 'rgb:af5f5f'
 
 # code
 
